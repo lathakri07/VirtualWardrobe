@@ -2,7 +2,10 @@
 venv/
 __pycache__/
 *.pyc
-.env# Virtual Wardrobe and Outfit Planner 
+.env
+
+
+# Virtual Wardrobe and Outfit Planner 
 A fashion-focused wardrobe management system built using Flask, MySQL, HTML, CSS, and JavaScript. The application allows users to digitally organize their clothing collections, create outfit combinations, and plan their daily looks efficiently.
 
 # Project Overview:
