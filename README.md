@@ -5,54 +5,59 @@ __pycache__/
 .env
 
 
-# Virtual Wardrobe and Outfit Planner 
-A fashion-focused wardrobe management system built using Flask, MySQL, HTML, CSS, and JavaScript. The application allows users to digitally organize their clothing collections, create outfit combinations, and plan their daily looks efficiently.
+# Virtual Wardrobe and Outfit Planner
 
-# Project Overview:
+A web-based fashion management application built using React, FastAPI, and MySQL. The project aims to help users organize their wardrobe digitally, manage clothing collections, and plan outfit combinations through an intuitive and user-friendly interface.
 
-Virtual Wardrobe is a web-based application designed to simplify clothing management and outfit planning by allowing users to:
+## Project Overview
 
-- Add and manage clothing items
-- Categorize outfits based on type, style, and occasion
-- Create and save outfit combinations
-- Organize wardrobe collections digitally
-- View and manage clothing details
-- Plan outfits for different events and occasions
+Virtual Wardrobe is designed to simplify clothing organization and outfit planning by providing a centralized platform for managing personal wardrobe collections. Users can store clothing information, browse their wardrobe, and create outfit combinations based on their preferences and needs.
 
-The project demonstrates the implementation of database management concepts, CRUD operations, relational database design, and backend development using Flask with MySQL integration.
+## Features
 
-# Technologies Used:
+* Add and manage clothing items
+* Organize wardrobe collections digitally
+* Store clothing details and images
+* Create and manage outfit combinations
+* Browse and filter wardrobe items
+* Personalized wardrobe management experience
 
-- Frontend: HTML, CSS, JavaScript
-- Backend: Python Flask
-- Database: MySQL
-- Version Control: Git & GitHub
+## Technologies Used
 
-# Key Features Implemented:
+### Frontend
 
-- User-friendly wardrobe management interface
-- Add, update, view, and delete clothing items
-- Database-driven storage of wardrobe data
-- Organized clothing categories
-- Outfit planning and management system
-- Structured backend using Flask routes and database connectivity
+* React
+* HTML
+* CSS
+* JavaScript
 
-# Database Concepts Implemented:
+### Backend
 
-- Relational Database Design: Structured tables for storing users, clothing items, and outfits.
-- CRUD Operations: Create, Read, Update, and Delete functionality for wardrobe management.
-- Database Connectivity: Integration between Flask application and MySQL database.
-- Data Organization: Efficient storage and retrieval of wardrobe information.
+* FastAPI
+* Python
 
-# Project Structure:
+### Database
 
-- `app.py` - Flask backend application
-- `templates/` - HTML pages
-- `static/` - CSS, JavaScript, and static assets
-- `requirements.txt` - Project dependencies
+* MySQL
 
+### Version Control
 
+* Git & GitHub
 
-# Development Status:
+## Project Goals
 
-🚧 This project is currently under development. New features and improvements will be added over time.
+* Provide a digital solution for wardrobe organization
+* Simplify outfit planning and clothing management
+* Build a scalable full-stack web application
+* Explore modern web development technologies and practices
+
+## Project Structure
+
+* `frontend/` – React application and user interface
+* `backend/` – FastAPI backend and API endpoints
+* `database/` – Database scripts and schema files
+* `README.md` – Project documentation
+
+## Development Status
+
+🚧 This project is currently under development. Features, functionality, and project structure may evolve as development progresses.
