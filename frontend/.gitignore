@@ -26,3 +26,21 @@ dist-ssr
 venv/
 node_modules/
 .env
+
+# Python
+venv/
+__pycache__/
+
+# React
+node_modules/
+
+# Environment files
+.env
+
+# Uploads
+uploads/*
+
+venv/
+node_modules/
+__pycache__/
+.env
